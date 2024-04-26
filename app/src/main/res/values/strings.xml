@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LovelyPets</string>
+    <string name="display_title">Pet List</string>
+    <string name="menu_title">Menu</string>
+    <string name="about_title">About</string>
+    <string name="setting_title">Settings</string>
+    <string name="input_tittle">Register a Pet</string>
+    <string name="pet_name">Pet Name</string>
+    <string name="option_add_a_pet">Register a Pet</string>
+    <string name="option_view_a_pet">View All Pets</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="allow_delete">Allow Delete Pet</string>
+    <string name="allow_rotate">Allow Rotate Screen</string>
+    <string name="nav_back_content_description">back</string>
+    <string name="about_message">About</string>
+    <string name="setting_message">Settings</string>
+    <string name="about_me_1">Kodeco Android Bootcamp</string>
+    <string name="about_me_2">Capstone Project</string>
+    <string name="about_me_3">Julio Alfaro</string>
+    <string name="kodeco">Kodeco</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="camera_content_description">Take Picture</string>
+    <string name="add_pet">Add Pet</string>
+    <string name="race">Race</string>
+    <string name="no_pets">No pets registered</string>
+    <string name="save_successful">Pet saved successfully</string>
+</resources>
