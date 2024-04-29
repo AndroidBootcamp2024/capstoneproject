@@ -80,6 +80,7 @@ dependencies {
     implementation(libs.coil)
     implementation(libs.lottie)
 
+
     implementation(libs.room)
     implementation(libs.room.runtime)
     ksp(libs.room.compiler)
@@ -93,6 +94,8 @@ dependencies {
     implementation(libs.prefs)
 
     testImplementation(libs.junit)
+    implementation(libs.mockito)
+    implementation(libs.mockito.kotlin)
 
     androidTestImplementation(libs.androidx.test.ext.junit)
     androidTestImplementation(libs.espresso)
